@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CountriesAPI.Application/1.0.0": {
+        "dependencies": {
+          "CountriesAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CountriesAPI.Application.dll": {}
+        }
+      },
+      "CountriesAPI.Domain/1.0.0": {
+        "runtime": {
+          "CountriesAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountriesAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CountriesAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.CountriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.CountriesController",
+    "Method": "GetByCode",
+    "RelativePath": "api/countries/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.CountriesController",
+    "Method": "GetByName",
+    "RelativePath": "api/countries/name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.CountriesController",
+    "Method": "GetByRegion",
+    "RelativePath": "api/countries/region/{region}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.SyncController",
+    "Method": "Sync",
+    "RelativePath": "api/Sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CountriesAPI.API.Controllers.SyncController",
+    "Method": "SyncTranslations",
+    "RelativePath": "api/Sync/translations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

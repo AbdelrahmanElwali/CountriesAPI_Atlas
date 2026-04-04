@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\bin\Release\net9.0\CountriesAPI.Domain.deps.json
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\bin\Release\net9.0\CountriesAPI.Domain.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\bin\Release\net9.0\CountriesAPI.Domain.pdb
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\refint\CountriesAPI.Domain.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\CountriesAPI.Domain.pdb
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Domain\obj\Release\net9.0\ref\CountriesAPI.Domain.dll

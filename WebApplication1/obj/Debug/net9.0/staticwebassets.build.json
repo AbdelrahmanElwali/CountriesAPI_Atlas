@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XJqf68EIkZ8R1gONgul7q/XHRcMvAo54DIy1NL02fKo=",
+  "Source": "CountriesAPI.API",
+  "BasePath": "_content/CountriesAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

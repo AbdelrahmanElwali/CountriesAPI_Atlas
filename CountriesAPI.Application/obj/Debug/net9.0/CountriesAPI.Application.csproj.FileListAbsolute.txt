@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\bin\Debug\net9.0\CountriesAPI.Application.deps.json
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\bin\Debug\net9.0\CountriesAPI.Application.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\bin\Debug\net9.0\CountriesAPI.Application.pdb
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\bin\Debug\net9.0\CountriesAPI.Domain.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\bin\Debug\net9.0\CountriesAPI.Domain.pdb
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\Countrie.CA34A5D0.Up2Date
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\refint\CountriesAPI.Application.dll
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\CountriesAPI.Application.pdb
+C:\Users\Admin\source\repos\CountriesAPI\CountriesAPI.Application\obj\Debug\net9.0\ref\CountriesAPI.Application.dll

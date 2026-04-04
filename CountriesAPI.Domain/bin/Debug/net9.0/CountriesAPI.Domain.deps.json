@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CountriesAPI.Domain/1.0.0": {
+        "runtime": {
+          "CountriesAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountriesAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
