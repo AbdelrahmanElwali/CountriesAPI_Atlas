@@ -9,7 +9,7 @@ public class RestCountriesClient
     public RestCountriesClient(HttpClient httpClient)
     {
         _httpClient = httpClient;
-        // REST Countries API بتطلب User-Agent
+        
         _httpClient.DefaultRequestHeaders.Add("User-Agent", "CountriesAPI/1.0");
     }
 

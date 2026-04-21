@@ -9,5 +9,5 @@ public interface ICountryRepository
     Task<Country?> GetByNameAsync(string name);      // Egypt
     Task<IEnumerable<Country>> GetByRegionAsync(string region);
     Task<IEnumerable<Country>> GetByCurrencyAsync(string currency);
-    Task UpsertAsync(IEnumerable<Country> countries); // للـ Sync
+    Task UpsertAsync(IEnumerable<Country> countries); // Sync
 }

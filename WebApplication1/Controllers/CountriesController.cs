@@ -35,7 +35,7 @@ public class CountriesController : ControllerBase
         var country = await _countryService.GetByNameAsync(name);
         if (country == null) return NotFound();
 
-        // برجع array عشان الـ Angular يقدر يتعامل معاه
+        
         return Ok(new[] { country });
     }
 

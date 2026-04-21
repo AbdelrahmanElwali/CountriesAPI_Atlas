@@ -43,7 +43,7 @@ public class CountryRepository : ICountryRepository
 
     public async Task<IEnumerable<Country>> GetByCurrencyAsync(string currency)
     {
-        // بندور في الـ RawJson عشان الـ currencies مش field منفصل
+     
         return await _context.Countries
             .Where(c => EF.Functions.Like(c.RawJson, $"%{currency}%"))
             .ToListAsync();

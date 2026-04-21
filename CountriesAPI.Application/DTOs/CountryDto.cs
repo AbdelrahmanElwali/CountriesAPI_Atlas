@@ -18,7 +18,7 @@ public class CountryDto
     public double Lng { get; set; }
     public Dictionary<string, string> Translations { get; set; } = new();
 
-    // من Entity لـ DTO
+   
     public static CountryDto FromEntity(Country country)
     {
         return new CountryDto

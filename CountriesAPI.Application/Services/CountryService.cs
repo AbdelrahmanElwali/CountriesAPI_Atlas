@@ -41,10 +41,10 @@ public class CountryService
 
     public async Task<CountryDto?> GetByNameAsync(string name)
     {
-        // الأول بندور في الـ DB بالإنجليزي
+        
         var country = await _repository.GetByNameAsync(name);
 
-        // لو ملقيناش — بندور في الـ Translations
+       
         if (country == null)
         {
             var code = _translationStore.FindCountryCode(name);

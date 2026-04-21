@@ -182,3 +182,4 @@ C:\Users\Admin\source\repos\CountriesAPI\WebApplication1\obj\Debug\net9.0\Countr
 C:\Users\Admin\source\repos\CountriesAPI\WebApplication1\obj\Debug\net9.0\ref\CountriesAPI.API.dll
 C:\Users\Admin\source\repos\CountriesAPI\WebApplication1\bin\Debug\net9.0\translations\ar.json
 C:\Users\Admin\source\repos\CountriesAPI\WebApplication1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\CountriesAPI\WebApplication1\obj\Debug\net9.0\CountriesAPI.API.sourcelink.json

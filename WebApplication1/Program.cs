@@ -46,7 +46,7 @@ var app = builder.Build();
 
 app.UseCors("AllowAngular");
 
-// force الـ TranslationStore يتبني فوراً
+
 var translationStore = app.Services.GetRequiredService<ITranslationStore>();
 
 app.UseSwagger();
